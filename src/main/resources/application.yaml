@@ -13,3 +13,5 @@ spring:
     show-sql: true
     hibernate:
       ddl-auto: update
+
+      //dar permissão pra usar o banco
